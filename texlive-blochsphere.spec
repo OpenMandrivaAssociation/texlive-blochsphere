@@ -1,6 +1,6 @@
 Name:		texlive-blochsphere
 Version:	38388
-Release:	1
+Release:	2
 Summary:	Draw pseudo-3D diagrams of Bloch spheres
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/blochsphere
