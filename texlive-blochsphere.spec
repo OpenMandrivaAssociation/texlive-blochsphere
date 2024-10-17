@@ -3,7 +3,7 @@ Version:	38388
 Release:	2
 Summary:	Draw pseudo-3D diagrams of Bloch spheres
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/blochsphere
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/blochsphere
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/blochsphere.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/blochsphere.doc.r%{version}.tar.xz
